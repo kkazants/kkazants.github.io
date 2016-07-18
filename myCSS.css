@@ -6,10 +6,17 @@ html {
 
 header {
     margin-left: 5%;
+    margin-right: 5%;
 }
 
 #content {
     margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer {
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 table {
