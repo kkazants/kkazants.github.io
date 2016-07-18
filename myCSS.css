@@ -23,6 +23,7 @@ footer {
 }
 
 table {
+    text-align: left;
     border-collapse: collapse;
     table-layout: fixed;
     width: 890px;
