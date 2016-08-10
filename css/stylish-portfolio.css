@@ -222,6 +222,10 @@ hr.small {
 	width: 100%;
 	color: white;
 	font: bold 45px Helvetica, Sans-Serif;
+	text-shadow: -1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+    	1px 1px 0 #000;
 	letter-spacing: -1px;
 	padding: 10px;
 }
